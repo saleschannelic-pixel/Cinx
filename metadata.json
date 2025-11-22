@@ -1,0 +1,7 @@
+{
+  "name": "VapeFree: AI Cessation Coach",
+  "description": "A dark-themed, mobile-first companion app to help users quit vaping through AI coaching, health tracking, financial incentives, and habit building.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
